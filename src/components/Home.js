@@ -26,7 +26,7 @@ const handleDelete = (id) =>{
 }
       return(
          <Fragment>
-            <div style={{margin:"10rem"}}>
+            <div style={{margin:"20px"}}>
                 <Table striped bordered hover size="sm">
                     <thead>
                         <tr>
